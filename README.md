@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/71860925/183033221-287dfe45-6ef9-4ad7-bd55-beebfda8c9e4.jpg" width="500" value="Clean"> <img src="https://user-images.githubusercontent.com/71860925/183033354-8515eda9-e843-48a3-b588-40f0f5d3d445.jpg" width="500" value="Hacking">
 
-This repo contains training and inference code for a CNN-based CoD4 screenshot classifier to detect hackers.
+This repo contains training and inference code for a CNN-based CoD4 screenshot classifier to detect hackers. (Currently deployed on the [NamelessNoobs](https://namelessnoobs.com/cod4ss/public.php) servers.)
 
 ## Inference Usage:
 1. Clone the repository and install required libraries using `pip install -r requirements.txt`
